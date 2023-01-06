@@ -1,0 +1,21 @@
+.Title
+{
+    background-color:darkgrey;
+    height: 80px;
+    width: 500px;
+    font-size:xx-large;
+    font-weight:bold;
+    text-align:center;
+    padding-top: 15px;
+    margin:30px;
+    margin-left:400px;
+    border-radius: 15px;
+}
+
+.Card
+{
+    width: 900px; display: 
+    inline-block ; 
+    border: solid 2px black ; 
+    margin-left: 200px;
+}

@@ -1,0 +1,8 @@
+<div class="Title">Car App</div>
+<router-outlet></router-outlet>
+<div class="Card">
+    <app-car *ngFor="let c of MyCars"
+    [Name]="c.name" 
+    [Price]="c.price"
+    [Imageurl]= "c.image"></app-car></div>
+   
